@@ -1,4 +1,4 @@
-# Klokantech Basic
+# Klokantech Streets
 [![Build Status](https://travis-ci.org/openmaptiles/klokantech-basic-gl-style.svg?branch=master)](https://travis-ci.org/openmaptiles/klokantech-basic-gl-style)
 
 A Mapbox GL basemap style it is using the vector tile
